@@ -1,0 +1,23 @@
+name: Build and deploy
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Install dependencies
+              run: npm install
+            - name: Build
+              run: npm run build
+            - name: Deploy
+              uses: Dylan700/sftp-upload-action@latest
+              with:
+                  server: 91.107.223.117
+                  username: root
+                  key: ${{ secrets.SFTP_KEY }}
+                  uploads: |
+                      ./dist/ => /root/notes/
