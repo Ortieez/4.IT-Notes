@@ -14,7 +14,7 @@ jobs:
             - name: Build
               run: npm run build
             - name: Deploy to SFTP
-              uses: SamKirkland/FTP-Deploy-Action@4.0.0
+              uses: SamKirkland/FTP-Deploy-Action@v4.3.4
               with:
                 server: 91.107.223.117
                 username: root
