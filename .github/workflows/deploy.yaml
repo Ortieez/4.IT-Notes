@@ -20,4 +20,4 @@ jobs:
                 username: root
                 password: ${{ secrets.SFTP_KEY }}
                 local-dir: ./dist/
-                remote-dir: /root/notes/
+                server-dir: /root/notes/
