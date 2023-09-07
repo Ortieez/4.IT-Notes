@@ -5,6 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
+
 			title: '4.IT',
 			lastUpdated: true,
 			sidebar: [
