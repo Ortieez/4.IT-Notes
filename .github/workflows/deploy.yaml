@@ -13,11 +13,11 @@ jobs:
               run: npm install
             - name: Build
               run: npm run build
-            - name: Deploy
-              uses: Dylan700/sftp-upload-action@latest
+            - name: Deploy to SFTP
+              uses: SamKirkland/FTP-Deploy-Action@4.0.0
               with:
-                  server: 91.107.223.117
-                  username: root
-                  key: ${{ secrets.SFTP_KEY }}
-                  uploads: |
-                      ./dist/ => /root/notes/
+                server: 91.107.223.117
+                username: root
+                password: ${{ secrets.SFTP_KEY }}
+                local-dir: ./dist/
+                remote-dir: /root/notes/
