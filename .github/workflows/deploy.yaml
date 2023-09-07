@@ -14,10 +14,10 @@ jobs:
             - name: Build
               run: npm run build
             - name: Deploy to SFTP
-              uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+              uses: wlixcc/SFTP-Deploy-Action@v1.2.4
               with:
-                server: 91.107.223.117
-                username: root
+                server: '91.107.223.117'
+                username: 'root'
                 password: ${{ secrets.SFTP_KEY }}
-                local-dir: ./dist/
-                server-dir: /root/notes/
+                local_path: './dist/'
+                remote_path: '/root/notes/'
