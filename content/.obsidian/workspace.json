@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a241e4bd72dd461",
+        "id": "bfa70f49848c6c40",
         "type": "tabs",
         "children": [
           {
-            "id": "7566a1fcbc7010fa",
+            "id": "a90a9f45a477f454",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WAP/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAP/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAP/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WAP/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,24 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7566a1fcbc7010fa",
+  "active": "a90a9f45a477f454",
   "lastOpenFiles": [
+    "PGR/index.md",
+    "PGR/intro-do-pgr.md",
+    "LU/situace-ve-svete-2-svetove-valky.md",
+    "LU/index.md",
+    "WAP/index.md",
     "SIF/index.md",
     "SEMINAR-M/index.md",
     "SEMINAR-CJ/index.md",
     "PRV/index.md",
     "PRG/index.md",
     "PHR/index.md",
-    "PGR/index.md",
     "MULD/index.md",
     "MECH/index.md",
     "M/index.md",
-    "LU/index.md",
     "CJ/index.md",
     "index.md",
-    "LU/situace-ve-svete-2-svetove-valky.md",
     "LU/Situace ve světě 2. světové válce.md",
-    "PGR/Intro do PGR.md",
     "PGR/index.md~"
   ]
 }
