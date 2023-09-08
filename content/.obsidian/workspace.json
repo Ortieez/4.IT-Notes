@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "3e5db2b7299f0284",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a241e4bd72dd461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7566a1fcbc7010fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LU/Situace ve světě 2. světové válce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26d1763cf5669323",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6073c49084447a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1847642933a4fbdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d0f396d5414667",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6c7f99b79749060",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddf0a2ec6df29bdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ec24c92580866b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdc0c2c17e3b06b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LU/Situace ve světě 2. světové válce.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b584e6ffb93c420",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LU/Situace ve světě 2. světové válce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e91504d7c2226c86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cbb3694434823f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LU/Situace ve světě 2. světové válce.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7566a1fcbc7010fa",
+  "lastOpenFiles": [
+    "LU/Situace ve světě 2. světové válce.md",
+    "LU/index.md",
+    "PGR/Intro do PGR.md",
+    "PGR/index.md~",
+    "PGR/index.md"
+  ]
+}
