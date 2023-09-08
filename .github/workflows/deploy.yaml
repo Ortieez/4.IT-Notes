@@ -21,3 +21,4 @@ jobs:
                 password: ${{ secrets.SFTP_KEY }}
                 local_path: './dist/'
                 remote_path: '/root/notes/'
+                delete_remote_files: true
