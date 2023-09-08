@@ -1,3 +1,3 @@
 ---
-title: Seminar M
+title: Seminář z Matematiky
 ---

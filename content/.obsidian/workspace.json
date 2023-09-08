@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LU/Situace ve světě 2. světové válce.md",
+                "file": "WAP/index.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LU/Situace ve světě 2. světové válce.md",
+                "file": "WAP/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LU/Situace ve světě 2. světové válce.md",
+                "file": "WAP/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LU/Situace ve světě 2. světové válce.md"
+                "file": "WAP/index.md"
               }
             }
           }
@@ -148,10 +149,22 @@
   },
   "active": "7566a1fcbc7010fa",
   "lastOpenFiles": [
-    "LU/Situace ve světě 2. světové válce.md",
+    "SIF/index.md",
+    "SEMINAR-M/index.md",
+    "SEMINAR-CJ/index.md",
+    "PRV/index.md",
+    "PRG/index.md",
+    "PHR/index.md",
+    "PGR/index.md",
+    "MULD/index.md",
+    "MECH/index.md",
+    "M/index.md",
     "LU/index.md",
+    "CJ/index.md",
+    "index.md",
+    "LU/situace-ve-svete-2-svetove-valky.md",
+    "LU/Situace ve světě 2. světové válce.md",
     "PGR/Intro do PGR.md",
-    "PGR/index.md~",
-    "PGR/index.md"
+    "PGR/index.md~"
   ]
 }

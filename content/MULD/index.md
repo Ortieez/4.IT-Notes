@@ -1,3 +1,3 @@
 ---
-title: MULD
+title: Multimedia
 ---

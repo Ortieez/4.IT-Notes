@@ -1,3 +1,3 @@
 ---
-title: MECH
+title: Mechatronika
 ---

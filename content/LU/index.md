@@ -1,3 +1,3 @@
 ---
-title: LU
+title: Literatura
 ---

@@ -1,3 +1,3 @@
 ---
-title: PGR
+title: Počítačová Grafika
 ---

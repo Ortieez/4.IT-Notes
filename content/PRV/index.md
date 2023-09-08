@@ -1,3 +1,3 @@
 ---
-title: PRV
+title: Programové Vybavení
 ---

@@ -1,3 +1,3 @@
 ---
-title: Seminar CJ
+title: Seminář z Českého Jazyka
 ---

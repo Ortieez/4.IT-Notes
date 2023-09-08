@@ -1,3 +1,3 @@
 ---
-title: CJ
+title: Český Jazyk
 ---

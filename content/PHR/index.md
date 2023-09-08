@@ -1,3 +1,3 @@
 ---
-title: PHR
+title: Počítačové Hry
 ---

@@ -1,3 +1,3 @@
 ---
-title: PRG
+title: Programování
 ---
