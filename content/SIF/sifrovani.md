@@ -10,6 +10,6 @@ title: Šifrování
 - podobor kryptografie, neviditelné inkousty, vodotisk, skrytí textu do obrázku nebo do hudby
 
 ## Kryptoanalýza
-	- získávání obsahu z šifrovaného obsahu bez znalosti klíče, frekvenční analýza <- statistické znalosti o přirozeném jazyce
+- získávání obsahu z šifrovaného obsahu bez znalosti klíče, frekvenční analýza <- statistické znalosti o přirozeném jazyce
 
 
