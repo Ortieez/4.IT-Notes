@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MECH/teorie-barev.md",
+                "file": "MULD/teorie-barev.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MECH/teorie-barev.md",
+                "file": "MULD/teorie-barev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MECH/teorie-barev.md",
+                "file": "MULD/teorie-barev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MECH/teorie-barev.md"
+                "file": "MULD/teorie-barev.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae9a2bf7d99a8287",
+  "active": "1847642933a4fbdf",
   "lastOpenFiles": [
     "LU/situace-ve-svete-2-svetove-valky.md",
-    "MECH/teorie-barev.md",
+    "MULD/teorie-barev.md",
     "PGR/index.md",
     "PGR/intro-do-pgr.md",
     "LU/index.md",
