@@ -23,16 +23,13 @@
             "id": "dcf921ba734af70e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SIF/sifrovani.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/sifrovani_3_boxes.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,13 +158,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcf921ba734af70e",
+  "active": "198523b6d0f8796a",
   "lastOpenFiles": [
+    "Excalidraw/sifrovani_3_boxes.excalidraw.md",
+    "Excalidraw/sifrovani_3_boxes.excalidraw.png",
+    "SIF/sifrovani.md",
     "SIF/index.md",
     "SIF/polybiuv-ctverec.md",
-    "SIF/sifrovani.md",
     "SIF/substitucni-sifry.md",
-    "Excalidraw/sifrovani_3_boxes.excalidraw.md",
     "Excalidraw",
     "SIF/caesarova-sifra.md",
     "PGR/intro-do-pgr.md",

@@ -42,7 +42,7 @@ title: Šifrování
 # Šifrování jako proces
 - šifrování je proces, kdyz převádíme **prostý text (OT)** na **šifrovaný text (ŠT)**
 
-![[sifrovani_3_boxes.excalidraw]]
+![[sifrovani_3_boxes.excalidraw.png]]
 ## Co prakticky šifrujeme
 - Data na médiu
 	- pevný disk, flash - AxCrypt (AES 128), BitLocker (AES 128, AES 256), Truecrypt
