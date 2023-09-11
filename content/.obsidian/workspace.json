@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MULD/teorie-barev.md",
+                "file": "SIF/sifrovani.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MULD/teorie-barev.md",
+                "file": "SIF/sifrovani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MULD/teorie-barev.md",
+                "file": "SIF/sifrovani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MULD/teorie-barev.md"
+                "file": "SIF/sifrovani.md"
               }
             }
           }
@@ -146,21 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1847642933a4fbdf",
+  "active": "ae9a2bf7d99a8287",
   "lastOpenFiles": [
-    "LU/situace-ve-svete-2-svetove-valky.md",
+    "SIF/index.md",
+    "SIF/sifrovani.md",
     "MULD/teorie-barev.md",
+    "MULD/index.md",
     "PGR/index.md",
+    "LU/situace-ve-svete-2-svetove-valky.md",
     "PGR/intro-do-pgr.md",
     "LU/index.md",
     "WAP/index.md",
-    "SIF/index.md",
     "SEMINAR-M/index.md",
     "SEMINAR-CJ/index.md",
     "PRV/index.md",
     "PRG/index.md",
     "PHR/index.md",
-    "MULD/index.md",
     "MECH/index.md",
     "M/index.md",
     "CJ/index.md",
