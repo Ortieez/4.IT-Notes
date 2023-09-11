@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa70f49848c6c40",
+        "id": "6564c2ea6e54c9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "a90a9f45a477f454",
+            "id": "ae9a2bf7d99a8287",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LU/situace-ve-svete-2-svetove-valky.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LU/situace-ve-svete-2-svetove-valky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LU/situace-ve-svete-2-svetove-valky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LU/situace-ve-svete-2-svetove-valky.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a90a9f45a477f454",
+  "active": "ae9a2bf7d99a8287",
   "lastOpenFiles": [
     "PGR/index.md",
     "PGR/intro-do-pgr.md",
