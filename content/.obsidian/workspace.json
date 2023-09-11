@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIF/polybiuv-ctverec.md",
+                "file": "SIF/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIF/polybiuv-ctverec.md",
+                "file": "SIF/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIF/polybiuv-ctverec.md",
+                "file": "SIF/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIF/polybiuv-ctverec.md"
+                "file": "SIF/index.md"
               }
             }
           }
@@ -163,13 +163,13 @@
   },
   "active": "45a0c0b55285145e",
   "lastOpenFiles": [
+    "SIF/polybiuv-ctverec.md",
     "SIF/sifrovani.md",
     "SIF/substitucni-sifry.md",
     "SIF/transpozicni-sifra.md",
     "SIF/vigenerova-sifra.md",
     "Excalidraw/transpozicni-sifra.excalidraw.md",
     "Excalidraw/transpozicni-sifra.excalidraw.png",
-    "SIF/polybiuv-ctverec.md",
     "SIF/index.md",
     "PRG/index.md",
     "Images",
