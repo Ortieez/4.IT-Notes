@@ -38,7 +38,7 @@ title: Teorie Barev
 ## Square
  - skládá se ze ctyr barev rovnomerne rozdelenych kolem barevneho kruhu
 
-# Split complementary Colors
+## Split complementary Colors
 - skládá se ze tří barev, dvě barvy u sebe jsou complementary k třetí barvě
 
 
