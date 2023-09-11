@@ -4,32 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fc506691d011d923",
+        "id": "6b51af1ebfbe7334",
         "type": "tabs",
         "children": [
           {
-            "id": "198523b6d0f8796a",
+            "id": "5d46ae502e78b2e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIF/caesarova-sifra.md",
+                "file": "SIF/transpozicni-sifra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dcf921ba734af70e",
+            "id": "45a0c0b55285145e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/sifrovani_3_boxes.excalidraw.md"
+                "file": "SIF/polybiuv-ctverec.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIF/caesarova-sifra.md",
+                "file": "SIF/polybiuv-ctverec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIF/caesarova-sifra.md",
+                "file": "SIF/polybiuv-ctverec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIF/caesarova-sifra.md"
+                "file": "SIF/polybiuv-ctverec.md"
               }
             }
           }
@@ -158,16 +161,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "198523b6d0f8796a",
+  "active": "45a0c0b55285145e",
   "lastOpenFiles": [
-    "SIF/polybiuv-ctverec.md",
-    "SIF/substitucni-sifry.md",
     "SIF/sifrovani.md",
+    "SIF/substitucni-sifry.md",
+    "SIF/transpozicni-sifra.md",
+    "SIF/vigenerova-sifra.md",
+    "Excalidraw/transpozicni-sifra.excalidraw.md",
+    "Excalidraw/transpozicni-sifra.excalidraw.png",
+    "SIF/polybiuv-ctverec.md",
+    "SIF/index.md",
+    "PRG/index.md",
+    "Images",
+    "Images/vigeneruv-ctverec.png",
+    "SIF/caesarova-sifra.md",
     "Excalidraw/sifrovani_3_boxes.excalidraw.md",
     "Excalidraw/sifrovani_3_boxes.excalidraw.png",
-    "SIF/index.md",
     "Excalidraw",
-    "SIF/caesarova-sifra.md",
     "PGR/intro-do-pgr.md",
     "MULD/teorie-barev.md",
     "MULD/index.md",
@@ -178,13 +188,11 @@
     "SEMINAR-M/index.md",
     "SEMINAR-CJ/index.md",
     "PRV/index.md",
-    "PRG/index.md",
     "PHR/index.md",
     "MECH/index.md",
     "M/index.md",
     "CJ/index.md",
     "index.md",
-    "LU/Situace ve světě 2. světové válce.md",
     "PGR/index.md~"
   ]
 }

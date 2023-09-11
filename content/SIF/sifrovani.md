@@ -19,11 +19,11 @@ title: Šifrování
 
 # Historie
 ## Klasická kryptografie
-- jednoduché substituční (atbash, [[caesarova-sifra|caesarova šifra]], polybiův čtverec)
+- jednoduché substituční (atbash, [[caesarova-sifra|caesarova šifra]], [[polybiuv-ctverec|polybiův čtverec]])
 - transpoziční (scytale) šifry
 
 ## Středověk
-- nástup polyalfabetických šifer (Vigenérová šifra)
+- nástup polyalfabetických šifer ([[vigenerova-sifra|Vigenérová šifra]])
 - vzestup kryptoanalýzy
 
 ## 1. Světová Válka
