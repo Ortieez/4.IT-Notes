@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIF/sifrovani.md",
+                "file": "SIF/caesarova-sifra.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIF/sifrovani.md",
+                "file": "SIF/caesarova-sifra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIF/sifrovani.md",
+                "file": "SIF/caesarova-sifra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIF/sifrovani.md"
+                "file": "SIF/caesarova-sifra.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "198523b6d0f8796a",
   "lastOpenFiles": [
-    "Excalidraw/sifrovani_3_boxes.excalidraw.md",
-    "Excalidraw/sifrovani_3_boxes.excalidraw.png",
-    "SIF/sifrovani.md",
-    "SIF/index.md",
     "SIF/polybiuv-ctverec.md",
     "SIF/substitucni-sifry.md",
+    "SIF/sifrovani.md",
+    "Excalidraw/sifrovani_3_boxes.excalidraw.md",
+    "Excalidraw/sifrovani_3_boxes.excalidraw.png",
+    "SIF/index.md",
     "Excalidraw",
     "SIF/caesarova-sifra.md",
     "PGR/intro-do-pgr.md",

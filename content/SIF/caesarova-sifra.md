@@ -6,6 +6,7 @@ title: Caesarova Šifra
 
 ## Příklad užití
 - Př. Zašifruj text ABACUS, pokud je posun o 3 dopředu
+
 | OT  | A   | B   | A   | C   | U   | S   |
 | --- | --- | --- | --- | --- | --- | --- |
 | ŠT  | D   | D   | F   | F   | X   | V   |
