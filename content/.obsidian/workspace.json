@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LU/situace-ve-svete-2-svetove-valky.md",
+                "file": "MECH/teorie-barev.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LU/situace-ve-svete-2-svetove-valky.md",
+                "file": "MECH/teorie-barev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LU/situace-ve-svete-2-svetove-valky.md",
+                "file": "MECH/teorie-barev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LU/situace-ve-svete-2-svetove-valky.md"
+                "file": "MECH/teorie-barev.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "ae9a2bf7d99a8287",
   "lastOpenFiles": [
+    "LU/situace-ve-svete-2-svetove-valky.md",
+    "MECH/teorie-barev.md",
     "PGR/index.md",
     "PGR/intro-do-pgr.md",
-    "LU/situace-ve-svete-2-svetove-valky.md",
     "LU/index.md",
     "WAP/index.md",
     "SIF/index.md",
