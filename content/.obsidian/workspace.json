@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJ/opakovani.md",
+                "file": "CJ/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJ/opakovani.md",
+                "file": "CJ/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJ/opakovani.md",
+                "file": "CJ/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJ/opakovani.md"
+                "file": "CJ/index.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "8f13f96fd00af90e",
   "lastOpenFiles": [
-    "CJ/rozvrstveni/dle-spisovnosti.md",
     "CJ/opakovani.md",
+    "CJ/rozvrstveni/dle-spisovnosti.md",
     "CJ/index.md",
     "CJ/rozvrstveni",
     "LU/index.md",
