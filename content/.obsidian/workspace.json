@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "399c929ec65f2f55",
+        "id": "7355a242876f4361",
         "type": "tabs",
         "children": [
           {
-            "id": "8f13f96fd00af90e",
+            "id": "abf47474e53a5ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
+                "file": "MULD/psychologie-barev.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
+                "file": "MULD/psychologie-barev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
+                "file": "MULD/psychologie-barev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHR/rozhovor-s-vyvojarem-hry-factorio.md"
+                "file": "MULD/psychologie-barev.md"
               }
             }
           },
@@ -158,10 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f13f96fd00af90e",
+  "active": "abf47474e53a5ac2",
   "lastOpenFiles": [
-    "PHR/index.md",
+    "MULD/teorie-barev.md",
+    "MULD/psychologie-barev.md",
     "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
+    "PHR/index.md",
     "PHR/Untitled",
     "LU/situace-ve-svete-2-svetove-valky.md",
     "CJ/index.md",
@@ -186,13 +188,11 @@
     "Excalidraw/sifrovani_3_boxes.excalidraw.png",
     "Excalidraw",
     "PGR/intro-do-pgr.md",
-    "MULD/teorie-barev.md",
     "MULD/index.md",
     "PGR/index.md",
     "WAP/index.md",
     "SEMINAR-M/index.md",
     "SEMINAR-CJ/index.md",
-    "PRV/index.md",
     "PGR/index.md~"
   ]
 }
