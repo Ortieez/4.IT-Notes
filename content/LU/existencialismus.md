@@ -18,4 +18,17 @@ title: Existencialismus
 
 ### Sartrova Tvorba
 - filozofické dílo: **Bytí a nicota** - myšlenka nesmyslnosti a bezcílnosti lidského života 
-- román **Nevolnost**: prvky eseje a filozofického románu, hlavní hrdina variací na literární typ zbytečného člověka, smysluplné aktivity = poslech jazzové hudby a psaní románu
+- román **Nevolnost**: prvky eseje a filozofického románu, hlavní hrdina variací na literární typ zbytečného člověka, smysluplné aktivity = poslech jazzové hudby a psaní románu 
+
+#### Interpretace ukázky Nevolnosti
+1. přehnanosti všimání si všeho
+2. přemýšlení nad vraždou
+3. nepatří nikam - izolace
+4. psychické problémy
+5. rebelství proti obecnému
+6. existence = proplouvání mezi předměty
+7. nechuť k ostatním lidem
+8. egoismus -> egocentrismus
+9. řečnické otázky
+10. myšlenky zbytečnosti
+11. humanismus
