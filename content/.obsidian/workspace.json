@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIF/albertiho-sifra.md",
+                "file": "SIF/symetricka-sifra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d94c06554b7b413b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/symetricka-sifra.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5552b9fe3e602dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIF/asymetricka-sifra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIF/albertiho-sifra.md",
+                "file": "SIF/asymetricka-sifra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIF/albertiho-sifra.md",
+                "file": "SIF/asymetricka-sifra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIF/albertiho-sifra.md"
+                "file": "SIF/asymetricka-sifra.md"
               }
             }
           },
@@ -158,8 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33ee265c9fb30665",
+  "active": "5552b9fe3e602dba",
   "lastOpenFiles": [
+    "Excalidraw/standardy.md",
+    "SIF/asymetricka-sifra.md",
+    "Excalidraw/standardy.png",
+    "Excalidraw/asymetricka-sifra.md",
+    "Excalidraw/asymetricka-sifra.png",
+    "Excalidraw/symetricka-sifra.excalidraw.md",
+    "SIF/symetricka-sifra.md",
+    "Excalidraw/symetricka-sifra.excalidraw.png",
+    "SIF/transpozicni-sifry.md",
     "SIF/substitucni-sifry.md",
     "SIF/albertiho-sifra.md",
     "SIF/vigenerova-sifra.md",
@@ -175,7 +207,6 @@
     "CJ/rozvrstveni/dle-spisovnosti.md",
     "CJ/rozvrstveni",
     "LU/index.md",
-    "SIF/transpozicni-sifra.md",
     "MECH/index.md",
     "SIF/index.md",
     "SIF/polybiuv-ctverec.md",
@@ -185,14 +216,8 @@
     "PRG/index.md",
     "Images",
     "Images/vigeneruv-ctverec.png",
-    "SIF/caesarova-sifra.md",
-    "Excalidraw/sifrovani_3_boxes.excalidraw.md",
     "Excalidraw/sifrovani_3_boxes.excalidraw.png",
     "Excalidraw",
-    "PGR/intro-do-pgr.md",
-    "MULD/index.md",
-    "PGR/index.md",
-    "WAP/index.md",
     "PGR/index.md~"
   ]
 }
