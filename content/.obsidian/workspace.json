@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LU/existencialismus.md",
+                "file": "SIF/albertiho-sifra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LU/existencialismus.md",
+                "file": "SIF/albertiho-sifra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LU/existencialismus.md",
+                "file": "SIF/albertiho-sifra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LU/existencialismus.md"
+                "file": "SIF/albertiho-sifra.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "33ee265c9fb30665",
   "lastOpenFiles": [
+    "SIF/substitucni-sifry.md",
+    "SIF/albertiho-sifra.md",
+    "SIF/vigenerova-sifra.md",
     "LU/existencialismus.md",
     "MULD/psychologie-barev.md",
     "MULD/teorie-barev.md",
@@ -177,8 +180,6 @@
     "SIF/index.md",
     "SIF/polybiuv-ctverec.md",
     "SIF/sifrovani.md",
-    "SIF/substitucni-sifry.md",
-    "SIF/vigenerova-sifra.md",
     "Excalidraw/transpozicni-sifra.excalidraw.md",
     "Excalidraw/transpozicni-sifra.excalidraw.png",
     "PRG/index.md",
@@ -192,7 +193,6 @@
     "MULD/index.md",
     "PGR/index.md",
     "WAP/index.md",
-    "SEMINAR-M/index.md",
     "PGR/index.md~"
   ]
 }
