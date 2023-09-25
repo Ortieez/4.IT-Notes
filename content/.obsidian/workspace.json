@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7355a242876f4361",
+        "id": "f598b09af02be08d",
         "type": "tabs",
         "children": [
           {
-            "id": "abf47474e53a5ac2",
+            "id": "33ee265c9fb30665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MULD/psychologie-barev.md",
+                "file": "LU/existencialismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MULD/psychologie-barev.md",
+                "file": "LU/existencialismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MULD/psychologie-barev.md",
+                "file": "LU/existencialismus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MULD/psychologie-barev.md"
+                "file": "LU/existencialismus.md"
               }
             }
           },
@@ -158,10 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abf47474e53a5ac2",
+  "active": "33ee265c9fb30665",
   "lastOpenFiles": [
-    "MULD/teorie-barev.md",
+    "LU/existencialismus.md",
     "MULD/psychologie-barev.md",
+    "MULD/teorie-barev.md",
     "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
     "PHR/index.md",
     "PHR/Untitled",
@@ -192,7 +193,6 @@
     "PGR/index.md",
     "WAP/index.md",
     "SEMINAR-M/index.md",
-    "SEMINAR-CJ/index.md",
     "PGR/index.md~"
   ]
 }
