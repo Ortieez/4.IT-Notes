@@ -14,3 +14,9 @@ title: Opakování
 - [[dle-spisovnosti|Dělení z hlediska spisovnosti]]
 - Dělení z hlediska dobového (časového využití)
 - Dělení z hlediska citového zabarvení
+
+## Obohacování slovní zásoby
+- [[zmena-vyznamu-slova|Změna významu slova]]
+- [[spojovani-slov-v-souslovi|Spojování slov v sousloví]]
+- [[tvoreni-novych-slov|Tvoření nových slov]]
+- [[prejimani-slov|Přejímání slov]]
