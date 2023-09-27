@@ -2,4 +2,4 @@
 title: Český Jazyk
 ---
 # Obsah
-- [[opakovani|Opakování Látky z minulých ročníků]]
+- [[slovni-zasoba|Opakování Látky z minulých ročníků]]

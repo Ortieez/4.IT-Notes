@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "106a8462d6513aa8",
+        "id": "b312d0b9aeeaee95",
         "type": "tabs",
         "children": [
           {
-            "id": "408fb17638bf1b92",
+            "id": "180b6c94cb6ba9dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJ/zmena-vyznamu-slova.md",
+                "file": "CJ/slovni-zasoba.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJ/zmena-vyznamu-slova.md",
+                "file": "CJ/slovni-zasoba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJ/zmena-vyznamu-slova.md",
+                "file": "CJ/slovni-zasoba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJ/zmena-vyznamu-slova.md"
+                "file": "CJ/slovni-zasoba.md"
               }
             }
           },
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,14 +159,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "408fb17638bf1b92",
+  "active": "180b6c94cb6ba9dd",
   "lastOpenFiles": [
-    "CJ/opakovani.md",
-    "CJ/spojovani-slov-v-souslovi.md",
+    "CJ/paronymie.md",
+    "CJ/slovni-zasoba.md",
+    "CJ/antonymie.md",
+    "CJ/synonimie.md",
+    "CJ/homonymie.md",
+    "CJ/polysemie.md",
+    "CJ/index.md",
     "CJ/zmena-vyznamu-slova.md",
+    "CJ/spojovani-slov-v-souslovi.md",
     "CJ/tvoreni-novych-slov.md",
     "CJ/prejimani-slov.md",
-    "CJ/index.md",
     "MECH/priklad.md",
     "SIF/vigenerova-sifra.md",
     "SIF/sifrovani.md",
@@ -184,13 +190,8 @@
     "MULD/psychologie-barev.md",
     "MULD/teorie-barev.md",
     "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
-    "PHR/index.md",
     "PHR/Untitled",
-    "LU/situace-ve-svete-2-svetove-valky.md",
-    "CJ/rozvrstveni/dle-spisovnosti.md",
     "CJ/rozvrstveni",
-    "LU/index.md",
-    "MECH/index.md",
     "Excalidraw/transpozicni-sifra.excalidraw.png",
     "Images",
     "Images/vigeneruv-ctverec.png",
