@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJ/slovni-zasoba.md",
+                "file": "SIF/kodovani.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJ/slovni-zasoba.md",
+                "file": "SIF/kodovani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJ/slovni-zasoba.md",
+                "file": "SIF/kodovani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJ/slovni-zasoba.md"
+                "file": "SIF/kodovani.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "180b6c94cb6ba9dd",
   "lastOpenFiles": [
-    "CJ/paronymie.md",
     "CJ/slovni-zasoba.md",
+    "SIF/kodovani.md",
+    "CJ/paronymie.md",
     "CJ/antonymie.md",
     "CJ/synonimie.md",
     "CJ/homonymie.md",
@@ -189,7 +190,6 @@
     "LU/existencialismus.md",
     "MULD/psychologie-barev.md",
     "MULD/teorie-barev.md",
-    "PHR/rozhovor-s-vyvojarem-hry-factorio.md",
     "PHR/Untitled",
     "CJ/rozvrstveni",
     "Excalidraw/transpozicni-sifra.excalidraw.png",
