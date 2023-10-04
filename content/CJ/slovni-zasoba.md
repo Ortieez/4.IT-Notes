@@ -19,6 +19,26 @@ title: Slovní Zásoba
 - [[tvoreni-novych-slov|Tvoření nových slov]]
 - [[prejimani-slov|Přejímání slov]]
 
+## Význam slov
+- slovo - skupina hlásek s významem
+- Význam:
+	- slovní (lexikální)	
+	- mluvnický (gramatický) - nabývá jej až ve spojení se slovy ve větě
+
+- podle toho, jaký význam nosí, děláme slova:
+	- slova **lexikální** - citoslovce, příslovce
+	- slova **lexikálně** **gramatická** - jména, slovesa
+	- slova **gramatická** - předložky, spojky, částice
+
+- Složky věcného (lexikálního) významu slova:
+	- **rozsah** významu slova
+		- souhrn jednotlivých předmětů a jevů, které lze pod daný pojem zahrnout
+		- dům (budova, stavení, vila, chalupa...)
+		- rostlina (strom, keř, obilí...)
+	- **obsah** významu slova
+		- souhrn všech podstatných rysů, které jsou dané pojmu společné
+		- rostlina - společné znaky všech rostlin
+		- lípa - společné znaky všech druhů lip
 ## Druhy pojmenování podle významu
 - Typy pojmenování:
 	- [[polysemie|Polysémie]] - víceznačnost
@@ -41,3 +61,4 @@ title: Slovní Zásoba
 2. Hodnocení významu
 	- zesilující - dlouhý, dlouhatý, dlouhatánský
 	- zeslabující - zelený, zelenavý; vědecký, pavědecký
+
